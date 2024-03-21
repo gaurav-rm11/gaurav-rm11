@@ -1,3 +1,4 @@
+![logo](https://github.com/gaurav-rm11/gaurav-rm11/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Gaurav Mahadeshwar</h1>
 <h3 align="center">Constantly Growing, Coding with Passion</h3>
 
